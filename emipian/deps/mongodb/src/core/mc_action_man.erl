@@ -3,7 +3,7 @@
 %%% @copyright (C) 2014, <COMPANY>
 %%% @doc  mongo connection action manager.
 %%% It processes read requests from mongo api
-%%% @end777888888888888
+%%% @end
 %%% Created : 28. май 2014 18:27 
 %%%-------------------------------------------------------------------
 -module(mc_action_man).
