@@ -4,7 +4,7 @@
 %%% @doc  mongo client connection manager
 %%% processes request and response to|from database
 %%% @end
-%%% Created : 28. май 2014 18:3711111111111122
+%%% Created : 28. май 2014 18:3711111111111122333
 %%%-------------------------------------------------------------------
 -module(mc_connection_man).
 -author("tihon").
