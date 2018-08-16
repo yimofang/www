@@ -4,7 +4,7 @@
 %%% @doc  mongo connection action manager.
 %%% It processes read requests from mongo api
 %%% @end
-%%% Created : 28. май 2014 18:27
+%%% Created : 28. май 2014 18:27 
 %%%-------------------------------------------------------------------
 -module(mc_action_man).
 -author("tihon").
