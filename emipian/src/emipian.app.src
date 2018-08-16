@@ -1,0 +1,15 @@
+%% $Id$
+
+{application, emipian,
+ [{description, "emipian broker"},
+  {vsn, "1.1.5"},
+  {modules, []},
+  {registered, []},
+  {applications, [kernel, stdlib]},
+  {env, []},
+  {mod, {emipian_app, []}}
+  ]
+  }.
+
+
+

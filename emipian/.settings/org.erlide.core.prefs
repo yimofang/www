@@ -1,0 +1,7 @@
+backend_version=17.0
+eclipse.preferences.version=1
+external_includes=
+external_modules=
+include_dirs=include;deps/lager/include;deps/goldrush/include;deps/mongodb/deps/bson/include;deps/mongodb/include;deps/mysql1/include;deps/mongodb/deps/;deps/json/include;deps/mysql/include;deps/apns/include;
+output_dir=ebin
+source_dirs=src;deps/lager/src;deps/goldrush/src;deps/uuid/src;deps/mongodb/deps/bson/src;deps/mysql1/src;deps/mongodb/src/api;deps/mongodb/src/connection;deps/mongodb/src/core;deps/mongodb/src/cursor;deps/mongodb/src/main;deps/json/src;deps/mysql/src;deps/poolboy/src;deps/apns/src;

@@ -1,0 +1,17 @@
+-define(EC_SUCCESS, 0).
+-define(EC_DUPCMD,  100).
+
+-define(EC_CMDERROR, -10000).
+-define(EC_UNEXCEPTERROR, -10001).
+-define(EC_ERROR, -10002).
+-define(EC_CMDTIMEOUT, -10003).
+
+-define(EC_UPDATEHOST, -40000).
+
+-define(EC_LOGINFAIL, -20000).
+-define(EC_NOLOGIN, -20001).
+-define(EC_SESSIONINVALID, -20002).
+-define(EC_SESSION_UPDATE, -20003).
+
+-define(EC_HANDFAIL, -30000).
+

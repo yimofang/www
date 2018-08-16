@@ -1,0 +1,11 @@
+application,emipian,
+             [{description,"emipi an broker"},
+              {vsn,"1.1.5"},
+              {modules,[emipian,emipian_app,emipian_c2s,emipian_config,
+                        emipian_hooks,emipian_listener,emipian_logger,
+                        emipian_parser,emipian_receiver,emipian_socket,jlib,
+                        randoms,shaper,translate,gen_mod,emipian_action]},
+              {registered,[]},
+              {applications,[kernel,stdlib]},
+              {env,[]},
+              {mod,{emipian_app,[]}}]}.
