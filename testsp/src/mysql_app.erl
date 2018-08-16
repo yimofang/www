@@ -3,7 +3,7 @@
 %%% @copyright (C) 2013, Evgeniy Khramtsov
 %%% @doc
 %%%
-%%% @end222222222222222222233333
+%%% @end
 %%% Created : 15 May 2013 by Evgeniy Khramtsov <ekhramtsov@process-one.net>
 %%%-------------------------------------------------------------------
 -module(mysql_app).
